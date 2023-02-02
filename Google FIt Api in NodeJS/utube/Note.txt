@@ -1,0 +1,13 @@
+ Source:
+ https://www.youtube.com/watch?v=-yH1ZnZBWyU&list=PLSuXQVQ0rhV9ICAzphZm2j3Gwt3L3jWrL&index=5&t=33s
+ 
+ Initial installation
+ npm i express googleapis request cors url-parse query-string body-parser axios
+ Note: cannot install tgt, must install 1 by 1
+
+ Oath client
+ client id:
+ 363500610943-s4ro975gcndep5r9vbmodl8n7ppnt0lc.apps.googleusercontent.com
+
+ client secret:
+ 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

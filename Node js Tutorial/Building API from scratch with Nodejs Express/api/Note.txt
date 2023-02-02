@@ -1,0 +1,8 @@
+npm init -y // Create a package.json file
+
+Middleware:
+Why need?
+- express does not parse json in the body by default
+- not everyone use express to build a json api
+- therefore, set a middleware that tells express to parse json before the actual data hits the function that we are using here to handle the request
+

@@ -1,0 +1,15 @@
+The tradisional way to import node module is to use this require() function.
+
+COMMON JS require()
+ES MODULES import/export
+
+require() is used in vanilla node javascript
+
+
+Command: npm init -y
+A packjage.json file is created.
+List all the package that had been install in this project.
+
+>npm install express
+Express is a minimal web applicaiton framework and one of the most popular third-party node modules.
+
